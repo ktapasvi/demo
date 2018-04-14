@@ -19,7 +19,7 @@ node {
          * For this example, we're using a Volkswagen-type approach ;-) */
 
         app.inside {
-            sh 'echo "CI CD SNOW"'
+            sh 'echo "CICD SNOW"'
         }
     }
 
